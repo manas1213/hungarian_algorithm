@@ -8,6 +8,9 @@ The former logs the computation process step-by-step.  The former holds informat
 thoughout the computation.  These tables should be created prior to use of the algorithm.
 
 There is also code for two demonstration input tables, based on the examples at
+
 1) http://www.wikihow.com/Use-the-Hungarian-Algorithm
+
 2) http://en.wikipedia.org/wiki/Hungarian_algorithm
+
 (as shown on March 16, 2015).
